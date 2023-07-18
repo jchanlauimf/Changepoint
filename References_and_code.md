@@ -1,4 +1,6 @@
 * [BEAST: A Bayesian Ensemble Algorithm for Change-Point Detection and Time Series Decomposition](https://github.com/zhaokg/Rbeast)
 * [Nonparametric multiple changepoint detection for multivariate data](https://github.com/chdhr-harshal/nonparametric-changepoint-detection/tree/master)
 * [Github Repositories Changepoint](https://github.com/topics/changepoint)
-* 
+* [Changepoint detector by density ratio](https://github.com/daisuke-motoki/change_point_detector)
+* [Change-Point Detection in Time-Series Data by Relative Density-Ratio Estimation - Matlab](https://github.com/anewgithubname/change_detection)
+* [Papers with Code - Changepoint](https://paperswithcode.com/task/change-point-detection)
