@@ -8,3 +8,4 @@
 * [Bayesian Online Prediction of Change Points](https://paperswithcode.com/paper/bayesian-online-detection-and-prediction-of)
 * [Detecting and Adapting to Irregular Distribution Shifts in Bayesian Online Learning](https://paperswithcode.com/paper/variational-beam-search-for-online-learning)
 * [Detecting Change Intervals with Isolation Distributional Kernel](https://paperswithcode.com/paper/detecting-change-intervals-with-isolation)
+* [https://paperswithcode.com/paper/variational-beam-search-for-online-learning](https://paperswithcode.com/paper/variational-beam-search-for-online-learning)
