@@ -9,3 +9,4 @@
 * [Detecting and Adapting to Irregular Distribution Shifts in Bayesian Online Learning](https://paperswithcode.com/paper/variational-beam-search-for-online-learning)
 * [Detecting Change Intervals with Isolation Distributional Kernel](https://paperswithcode.com/paper/detecting-change-intervals-with-isolation)
 * [https://paperswithcode.com/paper/variational-beam-search-for-online-learning](https://paperswithcode.com/paper/variational-beam-search-for-online-learning)
+* [Restarted Bayesian Online Change-point Detector achieves Optimal Detection Delay](https://paperswithcode.com/paper/restarted-bayesian-online-change-point)
