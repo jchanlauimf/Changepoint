@@ -4,3 +4,5 @@
 * [Changepoint detector by density ratio](https://github.com/daisuke-motoki/change_point_detector)
 * [Change-Point Detection in Time-Series Data by Relative Density-Ratio Estimation - Matlab](https://github.com/anewgithubname/change_detection)
 * [Papers with Code - Changepoint](https://paperswithcode.com/task/change-point-detection)
+* [Online Neural Networks for Change Point Detection](https://arxiv.org/pdf/2010.01388v1.pdf)
+* 
