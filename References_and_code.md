@@ -10,3 +10,7 @@
 * [Detecting Change Intervals with Isolation Distributional Kernel](https://paperswithcode.com/paper/detecting-change-intervals-with-isolation)
 * [https://paperswithcode.com/paper/variational-beam-search-for-online-learning](https://paperswithcode.com/paper/variational-beam-search-for-online-learning)
 * [Restarted Bayesian Online Change-point Detector achieves Optimal Detection Delay](https://paperswithcode.com/paper/restarted-bayesian-online-change-point)
+* [A Contrastive Approach to Online Change Point Detection](https://paperswithcode.com/paper/a-contrastive-approach-to-online-change-point)
+* [Online Kernel CUSUM for Change-Point Detection](https://paperswithcode.com/paper/online-kernel-cusum-for-change-point)
+* [Bayesian Online Change Point Detection for Baseline Shifts](https://paperswithcode.com/paper/bayesian-online-change-point-detection-for)
+* [PERCEPT: a new online change-point detection method using topological data analysis](https://paperswithcode.com/paper/percept-a-new-online-change-point-detection)
