@@ -15,6 +15,10 @@
 * [Nonparametric multiple changepoint detection for multivariate data](https://github.com/chdhr-harshal/nonparametric-changepoint-detection/tree/master)
 * [Kats - time series analysis in Python](https://facebookresearch.github.io/Kats/)  
   Facebook time series analysis package - it includes the Bayesian Online Changepoint Detection algorithm of Adams and McKay (2007). Available in [Anaconda](https://anaconda.org/conda-forge/kats).
+* Memory-free online CPD: a novel neural network approach (Python)
+   * [arXiv](arxiv.org/abs/2207.03932); [GitHub](https://github.com/zahraatashgahi/ALACPD)
+* Roerich: Python Library for online and offline CPD for time series analysis
+   * [arXiv 1](https://doi.org/10.48550/arXiv.2001.06386); [arXiv 2](https://doi.org/10.48550/arXiv.2010.01388); [J. Computational Science](https://doi.org/10.1016/j.jocs.2021.101385); [GitHub](https://github.com/HSE-LAMBDA/roerich)
 
 ## Online Changepoint Detection
 * [Online Neural Networks for Change Point Detection](https://arxiv.org/pdf/2010.01388v1.pdf)  
