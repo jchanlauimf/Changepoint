@@ -2,14 +2,18 @@
 
 ## Fundamentals and Applications
 * [Masashi Sugiyama Software (R, Matlab, and Pyton - a bit outdated)](http://www.ms.k.u-tokyo.ac.jp/sugi/software.html)
-## Changepoint detection
+
+## Computer Implementation
+* [sdt-python: Changepoint detection](https://schuetzgroup.github.io/sdt-python/changepoint.html)  
+  Implements PELT (offline), Fear 2006 (offline), Adam 2007 (online).
 * [BEAST: A Bayesian Ensemble Algorithm for Change-Point Detection and Time Series Decomposition](https://github.com/zhaokg/Rbeast)  
   BEAST (Bayesian Estimator of Abrupt change, Seasonality, and Trend) is a fast, generic Bayesian model averaging algorithm to decompose time series or 1D sequential data into individual components, such as abrupt changes, trends, and periodic/seasonal variations, as described in Zhao et al. (2019). BEAST is useful for changepoint detection (e.g., breakpoints, structural breaks, regime shifts, or anomalies), trend analysis, time series decomposition (e.g., trend vs seasonality), time series segmentation, and interrupted time series analysis.
-* [Nonparametric multiple changepoint detection for multivariate data](https://github.com/chdhr-harshal/nonparametric-changepoint-detection/tree/master)
 * [Github Repositories Changepoint](https://github.com/topics/changepoint)
 * [Changepoint detector by density ratio](https://github.com/daisuke-motoki/change_point_detector)
 * [Change-Point Detection in Time-Series Data by Relative Density-Ratio Estimation - Matlab](https://github.com/anewgithubname/change_detection)
 * [Papers with Code - Changepoint](https://paperswithcode.com/task/change-point-detection)
+* [Nonparametric multiple changepoint detection for multivariate data](https://github.com/chdhr-harshal/nonparametric-changepoint-detection/tree/master)
+
 ## Online Changepoint Detection
 * [Online Neural Networks for Change Point Detection](https://arxiv.org/pdf/2010.01388v1.pdf)  
   Moments when a time series changes its behaviour are called change points. Detection of such points is a well-known problem, which can be found in many applications: quality monitoring of industrial processes, failure detection in complex systems, health monitoring, speech recognition and video analysis. Occurrence of change point implies that the state of the system is altered and its
