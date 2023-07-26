@@ -14,7 +14,7 @@
 * [Papers with Code - Changepoint](https://paperswithcode.com/task/change-point-detection)
 * [Nonparametric multiple changepoint detection for multivariate data](https://github.com/chdhr-harshal/nonparametric-changepoint-detection/tree/master)
 * [Kats - time series analysis in Python](https://facebookresearch.github.io/Kats/)  
-  Facebook time series analysis package - it includes the Bayesian Online Changepoint Detection algorithm of Adams and McKay (2007).
+  Facebook time series analysis package - it includes the Bayesian Online Changepoint Detection algorithm of Adams and McKay (2007). Available in [Anaconda](https://anaconda.org/conda-forge/kats).
 
 ## Online Changepoint Detection
 * [Online Neural Networks for Change Point Detection](https://arxiv.org/pdf/2010.01388v1.pdf)  
